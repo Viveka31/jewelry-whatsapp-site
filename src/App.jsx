@@ -15,6 +15,7 @@ export default function App() {
         <Route path="/earrings" element={<Category title="Earrings" />} />
         <Route path="/bangles" element={<Category title="Bangles" />} />
       </Routes>
+
     </BrowserRouter>
   );
 }

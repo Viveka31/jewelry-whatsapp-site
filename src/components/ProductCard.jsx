@@ -1,11 +1,10 @@
 export default function ProductCard({ name, category }) {
 
-  const phone = "919999999999";
+  const phone = "919361384950";
 
   const message = `Hi, I want details about ${name}`;
 
-  const link =
-    `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+  const link =`https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
 
   return (
     <div className="card">
