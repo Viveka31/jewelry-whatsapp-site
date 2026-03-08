@@ -1,6 +1,6 @@
 export default function Category({ title }) {
 
-  const phone = "919361384950";
+  const phone = "919952131274";
 
   const message = `Hi, I am interested in ${title}`;
 
